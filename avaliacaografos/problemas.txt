@@ -1,2 +1,0 @@
--digrafos disconexos 
--vertices anti-base com laço
